@@ -1,6 +1,6 @@
 ## Summary
 
-*Summarize the changes briefly, including which issue/ticket this resolves. If it closes an existing Github issue, include "Closes #[issue number]"*
+* Summarize the changes, including which issue/ticket this resolves. If it closes an existing Github issue, include "Closes #[issue number]"*
 
 ## What are the specific steps to test this change?
 
@@ -14,6 +14,7 @@
 *(Check at least one)*
 
 <!-- (Update "[ ]" to "[x]" to check a box) -->
+
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Refactor
@@ -22,6 +23,8 @@
 - [ ] Other
 
 ## Make sure the PR fulfills these requirements:
+
+<!-- (Update "[ ]" to "[x]" to check a box) -->
 
 - [ ] It includes a) the existing issue ID being resolved, b) a convincing reason for adding this feature, or c) a clear description of the bug it resolves
 - [ ] The changelog is updated
