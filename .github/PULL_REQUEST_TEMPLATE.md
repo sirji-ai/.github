@@ -1,8 +1,3 @@
-<!-- Please don't delete this template -->
-
-<!-- PULL REQUEST TEMPLATE -->
-<!-- (Update "[ ]" to "[x]" to check a box) -->
-
 ## Summary
 
 *Summarize the changes briefly, including which issue/ticket this resolves. If it closes an existing Github issue, include "Closes #[issue number]"*
@@ -18,6 +13,7 @@
 ## What kind of change does this PR introduce?
 *(Check at least one)*
 
+<!-- (Update "[ ]" to "[x]" to check a box) -->
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Refactor
